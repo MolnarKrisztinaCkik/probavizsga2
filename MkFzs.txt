@@ -11,3 +11,11 @@ git pull origin master
 git add .
 git commit -m "második"
 git push origin master
+
+B: 
+git branch fejlesztesB
+git checkout fejlesztesB
+git branch
+git add .
+git commit -m "negyedik"
+git push origin fejlesztesB
