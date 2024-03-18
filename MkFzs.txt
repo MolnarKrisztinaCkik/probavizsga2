@@ -5,3 +5,9 @@ A:
 git add .
 git commit -m "elso"
 git push -u origin master
+
+B: 
+git pull origin master 
+git add .
+git commit -m "második"
+git push origin master
